@@ -1,4 +1,4 @@
-package com.games.gamesjc.controller;
+package com.games.gameswel.controller;
 
 import java.util.List;
 import java.util.Optional;
@@ -20,8 +20,8 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.games.gamesjc.model.CategoriaGames;
-import com.games.gamesjc.repository.CategoriaGamesRepository;
+import com.games.gameswel.model.CategoriaGames;
+import com.games.gameswel.repository.CategoriaGamesRepository;
 
 @RestController 
 @RequestMapping ("/categoria")

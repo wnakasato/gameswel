@@ -1,4 +1,4 @@
-package com.games.gamesjc;
+package com.games.gameswel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

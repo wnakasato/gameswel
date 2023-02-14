@@ -1,4 +1,4 @@
-package com.games.gamesjc.repository;
+package com.games.gameswel.repository;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.stereotype.Repository;
 
-import com.games.gamesjc.model.CategoriaGames;
+import com.games.gameswel.model.CategoriaGames;
 
 @Repository
 public interface CategoriaGamesRepository extends JpaRepository <CategoriaGames,Long>{

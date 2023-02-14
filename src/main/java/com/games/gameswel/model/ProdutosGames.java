@@ -1,4 +1,4 @@
-package com.games.gamesjc.model;
+package com.games.gameswel.model;
 
 import java.math.BigDecimal;
 

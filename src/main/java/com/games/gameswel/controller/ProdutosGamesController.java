@@ -1,4 +1,4 @@
-package com.games.gamesjc.controller;
+package com.games.gameswel.controller;
 
 
 import java.math.BigDecimal;
@@ -22,9 +22,9 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
-import com.games.gamesjc.model.ProdutosGames;
-import com.games.gamesjc.repository.CategoriaGamesRepository;
-import com.games.gamesjc.repository.ProdutosGamesRepository;
+import com.games.gameswel.model.ProdutosGames;
+import com.games.gameswel.repository.CategoriaGamesRepository;
+import com.games.gameswel.repository.ProdutosGamesRepository;
 
 @RestController
 @RequestMapping("/produto")

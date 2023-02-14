@@ -1,4 +1,4 @@
-package com.games.gamesjc;
+package com.games.gameswel;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
